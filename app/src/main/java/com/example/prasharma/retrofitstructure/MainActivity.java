@@ -11,9 +11,11 @@ import java.util.LinkedHashMap;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import okhttp3.ResponseBody;
 import rest.RetrofitManager;
 import rest.retro.service.RequestListener;
 import retrofit2.Response;
+import util.Constants;
 
 public class MainActivity extends AppCompatActivity implements RequestListener {
 
@@ -41,26 +43,31 @@ public class MainActivity extends AppCompatActivity implements RequestListener {
 
     private void initApiCall() {
 
-        retrofitManager.apiCaller(this, MainActivity.this);
+        retrofitManager.apiCaller(this, MainActivity.this, Constants.API_TYPE.MOVIE_DETAILS);
 
     }
 
+
     @Override
-    public void onSuccess(Response response) {
-        if (response.isSuccessful()) {
-            txtTest.setText(new Gson().toJson(response));
+    public void onSuccess(Response<ResponseBody> response, Constants.API_TYPE apiType) {
+
+        if(apiType== Constants.API_TYPE.MOVIE_DETAILS){
+//            txtTest.setText(new Gson().toJson(response));
+            txtTest.setText(apiType.toString());
+
+        }else{
+            txtTest.setText("not the api type");
         }
+
+
     }
 
-
     @Override
-    public void onFailure(Throwable t) {
-
+    public void onFailure(Throwable t, Constants.API_TYPE apiType) {
         if(t instanceof NetworkErrorException){
             txtTest.setText("Network exception");
         }else{
             txtTest.setText(t.getClass().getName());
         }
-
     }
 }

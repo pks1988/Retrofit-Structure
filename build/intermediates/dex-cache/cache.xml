@@ -30,39 +30,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e8d8850a7d2c9ac1d0a3ec342a7a4312c06c94a1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
         <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_bb5dd585c6d77000909c6c1187f039a2cd4e59d4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\prasharma\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_80f0e1cedd3d3ff912fce58bb0e91b2ffe733fcb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8a1669bd7c1860ebbf949a984550308b9c0c7b97\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -81,6 +54,96 @@
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_dff688169c9b5bf4f1dae172ba82b44b6321d186\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_485739abde5665c8321ad6640da02f9dfc79215c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6862e3e5f31f22f8a837427006ca3a480cd4aa6f">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3b6bbf46726dddaa529f05f28b9693f94aade023\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prasharma\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_5f58796ad5a4c47fe7a6efbc9eac8c0f00642c9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prasharma\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_57026615369b4f6ef93a754d026bec5a8ba57e17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prasharma\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_a8dad21599867cd3d91e7bc259891a6ea897acc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prasharma\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e9a16a57e9d48f73ff8dcf15e315435487c4dc8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c1a63db3751fa1369cf9f6a09b2d714f8bea6a41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e8d8850a7d2c9ac1d0a3ec342a7a4312c06c94a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prasharma\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_80f0e1cedd3d3ff912fce58bb0e91b2ffe733fcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8a1669bd7c1860ebbf949a984550308b9c0c7b97\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,42 +174,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_485739abde5665c8321ad6640da02f9dfc79215c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a188c28bfb3dfb9edcf78576eb7bdcccbcbc6654">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3b6bbf46726dddaa529f05f28b9693f94aade023\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\prasharma\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_5f58796ad5a4c47fe7a6efbc9eac8c0f00642c9e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\prasharma\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_57026615369b4f6ef93a754d026bec5a8ba57e17\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\prasharma\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
         jumboMode="true"
         optimize="true"
@@ -160,7 +187,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b40d00043db3d64d9d66c9d6f6e02b3a3e27b5a3">
+        sha1="1cd389d58654a675d8db2b4632a5949964411382">
         <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_96cdbb3a9569e2eab0e04bf7ac496dfdea39ccf7\classes.dex" />
     </item>
     <item
@@ -171,15 +198,6 @@
         revision="24.0.2"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
         <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f0b52bec4638622c2d6e6727455408ba92c86db1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\prasharma\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_a8dad21599867cd3d91e7bc259891a6ea897acc4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -207,24 +225,6 @@
         revision="24.0.2"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
         <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6adf6a797469dda982d5f5338cb188a5cec60cdb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\prasharma\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e9a16a57e9d48f73ff8dcf15e315435487c4dc8b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="D:\Prevesh sharma\WORKSPACE BACKUP\Android workspace\RetrofitStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c1a63db3751fa1369cf9f6a09b2d714f8bea6a41\classes.dex" />
     </item>
 
 </items>
