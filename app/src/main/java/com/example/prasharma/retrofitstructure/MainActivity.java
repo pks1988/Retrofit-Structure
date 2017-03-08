@@ -5,15 +5,13 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-import com.google.gson.Gson;
-
 import java.util.LinkedHashMap;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import okhttp3.ResponseBody;
 import rest.RetrofitManager;
-import rest.retro.service.RequestListener;
+import rest.RequestListener;
 import retrofit2.Response;
 import util.Constants;
 
